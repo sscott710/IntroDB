@@ -6,3 +6,4 @@ We also covered creating and maniplulating databases with SQL, which
 is shown in these files.
 I could not find the project descriptions, but they are all focused on 
 creating a database, entering the data, and then manipulating the data.
+This is coded using mySQL.
